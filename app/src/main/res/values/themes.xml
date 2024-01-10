@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorMorado">#800080</color>
+    <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
+        <item name="windowActionBar">false</item>
+        <item name="windowNoTitle">true</item>
+        <!-- Configura otros atributos de tu tema aquí -->
+    </style>
+    <string name="fragment_inbox">Inbox</string>
+    <string name="fragment_outbox">Outbox</string>
+    <string name="fragment_trash">Trash</string>
+    <string name="fragment_spam">Spam</string>
+
+</resources>
